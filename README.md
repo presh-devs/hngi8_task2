@@ -6,4 +6,4 @@ To know more about the internship, click [here](https://internship.zuri.team)
 Your mind is a program that takes an input from the user and updates a textView accordingly.
 
 ## Screen Record
-<video src="https://github.com/dev-juri/hngi8_task2/blob/main/recording.mp4"/>
+<video src="https://github.com/dev-juri/hngi8_task2/blob/main/recording.mp4" width="320" height="240" controls/>
